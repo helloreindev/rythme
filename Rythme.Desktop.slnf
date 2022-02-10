@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "Rythme.sln",
+    "projects": [
+      "Rythme.Desktop\\Rythme.Desktop.csproj",
+      "Rythme.Game\\Rythme.Game.csproj",
+      "Rythme.Game.Tests\\Rythme.Game.Tests.csproj",
+      "Rythme.Resources\\Rythme.Resources.csproj"
+    ]
+  }
+}
